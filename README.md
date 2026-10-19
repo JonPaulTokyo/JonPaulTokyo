@@ -1,4 +1,4 @@
-# Hi, I'm Jon Paul 👋
+I'm Jon Paul 
 
 American based in Tokyo, working toward remote roles in **AI training, LLM evaluation, and prompt engineering**.
 
