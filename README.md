@@ -11,7 +11,7 @@ Google Certified Generative AI Prompt Engineer | Generative AI team volunteer at
 - **[weight-loss-chatbot-evaluation](https://github.com/JonPaulTokyo/weight-loss-chatbot-evaluation)**: a small evaluation of a local Gemma 3 chatbot, with 15 test prompts (including safety cases), a written rubric, and human ratings.
 - **[japanese-theme-weight-loss-chatbot](https://github.com/JonPaulTokyo/japanese-theme-weight-loss-chatbot)**: a Japanese-themed weight-loss mentor chatbot built with Ollama and Streamlit that runs fully on my own computer.
 - **[prompt-engineering-portfolio](https://github.com/JonPaulTokyo/prompt-engineering-portfolio)**: prompt examples and write-ups.
-- - **[llm-factual-evaluation](https://github.com/JonPaulTokyo/llm-factual-evaluation)**: a small test of how an LLM (Grok 4.7) handles facts, invented questions and instructions, with 15 prompts, a written rubric and human ratings. More models to come.
+- **[llm-factual-evaluation](https://github.com/JonPaulTokyo/llm-factual-evaluation)**: a small test of how an LLM (Grok 4.7) handles facts, invented questions and instructions, with 15 prompts, a written rubric and human ratings. More models to come.
 
 ## What I bring
 
